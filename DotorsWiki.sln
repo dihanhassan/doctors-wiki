@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotorsWiki", "DotorsWiki\DotorsWiki.csproj", "{6CF2BB0F-2308-41F1-8622-B3B09EC03DB5}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsWiki.Data", "DoctorsWiki.Data\DoctorsWiki.Data.csproj", "{E9D0850A-63EA-4060-B394-46011C2A79BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsWiki.Cache", "DoctorsWiki.Cache\DoctorsWiki.Cache.csproj", "{DCA1512E-58E8-4194-A7A5-D49DBAB837DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsWiki.Infrastructure", "DoctorsWiki.Infrastructure\DoctorsWiki.Infrastructure.csproj", "{F22096F1-5C00-4D85-B835-9B256ABF81AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DCA1512E-58E8-4194-A7A5-D49DBAB837DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA1512E-58E8-4194-A7A5-D49DBAB837DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA1512E-58E8-4194-A7A5-D49DBAB837DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22096F1-5C00-4D85-B835-9B256ABF81AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22096F1-5C00-4D85-B835-9B256ABF81AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22096F1-5C00-4D85-B835-9B256ABF81AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22096F1-5C00-4D85-B835-9B256ABF81AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,4 +14,11 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DoctorsWiki.Application\DoctorsWiki.Application.csproj" />
+    <ProjectReference Include="..\DoctorsWiki.Cache\DoctorsWiki.Cache.csproj" />
+    <ProjectReference Include="..\DoctorsWiki.Core\DoctorsWiki.Core.csproj" />
+    <ProjectReference Include="..\DoctorsWiki.Data\DoctorsWiki.Data.csproj" />
+  </ItemGroup>
+
 </Project>

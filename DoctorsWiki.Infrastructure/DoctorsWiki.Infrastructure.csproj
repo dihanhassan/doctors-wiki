@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoctorsWiki.Application\DoctorsWiki.Application.csproj" />
+    <ProjectReference Include="..\DoctorsWiki.Cache\DoctorsWiki.Cache.csproj" />
+    <ProjectReference Include="..\DoctorsWiki.Core\DoctorsWiki.Core.csproj" />
+  </ItemGroup>
+
+</Project>

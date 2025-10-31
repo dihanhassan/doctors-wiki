@@ -1,0 +1,12 @@
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\bin\Debug\net8.0\DoctorsWiki.Cache.deps.json
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\bin\Debug\net8.0\DoctorsWiki.Cache.dll
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\bin\Debug\net8.0\DoctorsWiki.Cache.pdb
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.AssemblyInfoInputs.cache
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.AssemblyInfo.cs
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.csproj.CoreCompileInputs.cache
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.sourcelink.json
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.dll
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\refint\DoctorsWiki.Cache.dll
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\DoctorsWiki.Cache.pdb
+D:\Code\Project\Backend\doctors-wiki\DotorsWiki\DoctorsWiki.Cache\obj\Debug\net8.0\ref\DoctorsWiki.Cache.dll
