@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj": {}
+    "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj": {
+    "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj",
+        "projectUniqueName": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj",
         "projectName": "DoctorsWiki.Data",
-        "projectPath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj",
+        "projectPath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj",
         "packagesPath": "C:\\Users\\Shihab\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Data\\obj\\",
+        "outputPath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

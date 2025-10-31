@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj": {}
+    "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj": {
+    "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj",
+        "projectUniqueName": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj",
         "projectName": "DoctorsWiki.Cache",
-        "projectPath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj",
+        "projectPath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Cache\\DoctorsWiki.Cache.csproj",
         "packagesPath": "C:\\Users\\Shihab\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Cache\\obj\\",
+        "outputPath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Cache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

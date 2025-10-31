@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jE8JkpcRfbk=",
+  "dgSpecHash": "N+ayN5ytTEw=",
   "success": true,
-  "projectFilePath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj",
+  "projectFilePath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DoctorsWiki.Data\\DoctorsWiki.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

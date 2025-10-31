@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Project\\Backend\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj": {}
+    "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Project\\Backend\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj": {
+    "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Project\\Backend\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj",
+        "projectUniqueName": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj",
         "projectName": "DotorsWiki",
-        "projectPath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj",
+        "projectPath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DotorsWiki\\DotorsWiki.csproj",
         "packagesPath": "C:\\Users\\Shihab\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Project\\Backend\\DotorsWiki\\DotorsWiki\\obj\\",
+        "outputPath": "D:\\Code\\Project\\Backend\\doctors-wiki\\DotorsWiki\\DotorsWiki\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
