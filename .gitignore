@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 .vs/
 **/.vs/
+/DotorsWiki/obj/Debug
+/DotorsWiki/obj/Debug/net8.0
+/DotorsWiki/obj/Debug
+/DotorsWiki/obj/Debug
