@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoctorsWiki.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65e67667846aeff5d0076a05146a4753296a900")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00ea05b4c7a823d01617d24b677569cbd84c755f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoctorsWiki.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoctorsWiki.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
